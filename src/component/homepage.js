@@ -5,7 +5,7 @@ function homepage(props) {
   return (
     <div>
         <nav style={{backgroundColor: '#154572', padding: '10px',}}><br/>
-        <h1 align="center" style={{ color: 'white' }}><b>🎉Welcome to Smart OBD Library Scanner🎉</b></h1>
+        <h1 align="center" style={{ color: 'white' }}><b>🎉Welcome to Smart OBD Library Scanne🎉</b></h1>
       </nav><br/>
       <section align='center'>
         <h2>Select Your user type </h2>
