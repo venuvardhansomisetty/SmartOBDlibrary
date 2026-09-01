@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/SmartOBDlibrary/static/css/main.b344d86d.css",
+    "main.js": "/SmartOBDlibrary/static/js/main.1d8fe5b2.js",
+    "static/js/453.42467a0d.chunk.js": "/SmartOBDlibrary/static/js/453.42467a0d.chunk.js",
+    "index.html": "/SmartOBDlibrary/index.html",
+    "main.b344d86d.css.map": "/SmartOBDlibrary/static/css/main.b344d86d.css.map",
+    "main.1d8fe5b2.js.map": "/SmartOBDlibrary/static/js/main.1d8fe5b2.js.map",
+    "453.42467a0d.chunk.js.map": "/SmartOBDlibrary/static/js/453.42467a0d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b344d86d.css",
+    "static/js/main.1d8fe5b2.js"
+  ]
+}
