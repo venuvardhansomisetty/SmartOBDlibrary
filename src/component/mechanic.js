@@ -1,6 +1,6 @@
 import React from 'react';
 
-function mechanic(props) {
+function Mechanic(props) {
     return (
         <div>
             hello u are in mechanic page 
@@ -8,4 +8,4 @@ function mechanic(props) {
     );
 }
 
-export default mechanic;
+export default Mechanic;
